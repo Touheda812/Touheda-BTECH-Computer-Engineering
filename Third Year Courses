@@ -1,4 +1,52 @@
 CET 3510 - Microcomputer Systems Technology
-3 cl hrs, 3 lab hrs
+--------------------------------------------
+An introduction to microcomputer architecture and the basic concepts used in the Personal Computer (PC). Key features of the PC are explored by writing programs 
+in a high-level language (such as C) to access them. Assembly language programs are utilized to gain insight into machinelevel operations. Laboratory exercises 
+support the lecture and are carried out in the context of currently available operating systems.
+_________________________________________________________________________________________________________________________________________________________________
 
-An introduction to microcomputer architecture and the basic concepts used in the Personal Computer (PC). Key features of the PC are explored by writing programs in a high-level language (such as C) to access them. Assembly language programs are utilized to gain insight into machinelevel operations. Laboratory exercises support the lecture and are carried out in the context of currently available operating systems.
+CET 3525 - Electrical Networks
+-------------------------------
+Applications of principles of electrical circuit analysis to the solution of practical network problems, with emphasis on steady-state AC Circuits. Applications of 
+Kirchoff’s Laws, superposition and Thevenin’s theorems.
+_____________________________________________________________________________________________________________________________________________________________________
+
+MAT 1575 - Calculus II
+Pathways: Math and Quantitative Reasoning, Scientific World
+---------------------------------------------------------------
+A continuation of MAT 1475. Topics include Taylor polynomials, Mean Value Theorem, Taylor and Maclaurin series, tests of convergence, techniques of integration, improper
+integrals, areas, volumes and arclength.
+___________________________________________________________________________________________________________________________________________________________________________
+
+CET 3615 - Instrumentation and Data Acquisition
+-------------------------------------------------
+An introduction to the concepts and techniques of instrumentation. Analog and digital techniques are used, taking into account standards, precision, accuracy and sensitivity 
+in the data-acquisition process. Interfacing with mechanical and electronic sensors. The lab emphasizes practical components and system analysis with evaluation of results, 
+and utilizes computer-based dataacquisition systems as well as standalone instruments.
+_______________________________________________________________________________________________________________________________________________________________________________
+
+CET 3625 - Applied Analysis Lab
+---------------------------------
+Students are introduced to the application of calculus and ordinary differential equations for the modeling and solution of advanced problems in engineering technology. This 
+course is coordinated with MAT 2680 Differential Equations.
+_________________________________________________________________________________________________________________________________________________________________________________
+
+CET 3640 - Software for Computer Control
+-----------------------------------------
+Programming concepts and software development techniques for computercontrolled systems. Laboratory exercises apply these concepts to a variety of systems and devices.
+___________________________________________________________________________________________________________________________________________________________________________
+
+MAT 2680 - Differential Equations
+Pathways: Scientific World
+------------------------------------
+Topics include methods of solving ordinary differential equations and applications to various problems.
+__________________________________________________________________________________________________________
+
+CST3529 – Applied Methods in Machine Learning
+--------------------------------------------------
+Understand what AI is and why we need to study it
+Understand the basics of machine learning and the most important methods used in machine learning
+Create simple to complex applications to illustrate how real-world problems can be solved with AI.
+Overcome the complexities/challenges in developing complex applications using Python programming
+language.
+________________________________________________________________________________________________________
