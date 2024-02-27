@@ -1,5 +1,54 @@
 CET 4705 - Component and Subsystem Design I
 --------------------------------------------
+Develops the foundations for performing electrical design in computer engineering technology applications. Typical systems are analyzed mathematically and graphically. Subsystems
+are designed to meet specific performance criteria.
+____________________________________________________________________________________________________________________________________________________________________________________
 
-Develops the foundations for performing electrical design in computer engineering technology applications. Typical systems are analyzed mathematically and graphically. Subsystems are designed to meet
-specific performance criteria.
+CET 4711 - Computer-Controlled Systems Design
+----------------------------------------------
+Modern design principles and methodologies. Software tools for systems design including computeraided design and computer-aided engineering. Students carry out the conceptual 
+design of a complete device or system by integrating hardware and software sub-systems; and learn to use project management tools to manage the design process.
+________________________________________________________________________________________________________________________________________________________________________________
+
+MAT 2580 - Introduction to Linear Algebra
+Pathways: Scientific World
+-------------------------------------------
+An introductory course in Linear Algebra. Topics include vectors, vector spaces, systems of linear equations, linear transformations, properties of matrices, determinants,
+eigenvalues and eigenvectors.
+_______________________________________________________________________________________________________________________________________________________________________________
+
+CET 4773 - Inter-networking Technology
+Writing Intensive
+---------------------------------------
+Technologies, protocols, and techniques used to connect a computer network with other networks through the use of gateways that provide a common method of routing information 
+packets among the networks. Internet technologies for the connection of computing devices with other internal and external devices or systems. Topics include Local Area Networks
+(LAN) and Wide Area Networks (WAN) implementation, wireless networks implementation, network security, advanced switching and routing configuration, advanced TCP/IP configuration,
+and network management.
+______________________________________________________________________________________________________________________________________________________________________________________
+
+CET 4805 - Component and Subsystem Design II
+----------------------------------------------
+Continuation of CET 4705. Further design of subsystems requiring solution by differential equations. Worst-case designs and component tolerances, development of control systems. 
+A term project may be assigned.
+___________________________________________________________________________________________________________________________________________________________________________________
+
+CET 4811 - Capstone Design Project
+-----------------------------------
+A capstone course dealing with design and programming concepts of particular importance for computer-controlled systems. In the lab, students may choose to utilize their
+concept designs from CET 4711, or to design a new device from scratch. Students apply their knowledge of component design, systems design, control theory and computer
+programming to carry out detailed design of their device or system, build a working model and program a computer to perform the desired measurement and/or control functions.
+_______________________________________________________________________________________________________________________________________________________________________________
+
+CET 4864 - Principles of Feedback Control Systems
+---------------------------------------------------
+Introduction to feedback concepts (positive and negative). Transient and steady-state analysis using Laplace transforms. Bode plots, stability analysis, and controller design. 
+Lab work includes the use of mathematical analysis and simulation.
+_________________________________________________________________________________________________________________________________________________________________________________
+
+CST3504 – Database Design
+---------------------------
+This course is dedicated to an overview of the database design process. The three main phases in database design, namely: conceptual, using Entity Relational Diagram (ERD) and 
+Unified Modeling Language (UML); logical, using the relational model, and physical, using the Oracle Database Management System (DBMS), are covered. The basics of the relational 
+data model (concepts of relation, attribute, primary key, and foreign key) are reviewed, and the mapping of the conceptual model to the relational model is discussed. Advanced
+concepts of relational theory (normalization, denormalization) are included. The Physical model of the database is built in Oracle. Students must be familiar with SQL.
+____________________________________________________________________________________________________________________________________________________________________________________
