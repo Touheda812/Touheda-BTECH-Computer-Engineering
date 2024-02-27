@@ -33,6 +33,8 @@ EMT 1150 - Electrical Circuits
 
 Introduction to the basic principles of direct and alternating current circuits. Topics include linear and nonlinear passive components, transient response 
 and phase relationships. The use of the multimeter, oscilloscope and frequency generator is introduced; computers are used for problem-solving.
+
+Test equipment: Multimeter, Oscilloscope, Frequency Generator 
 ____________________________________________________________________________________________________________________________________________________________
 
 MAT 1375 - Precalculus
@@ -57,6 +59,8 @@ EMT 1250 - Fundamentals of Digital Systems
 
 An introduction to digital logic and the basic building blocks used in digital systems. Students learn Boolean algebra and switching functions, logic gates and flip-flops,
 combinational and sequential logic circuits, memory elements, programmable logic devices, and computer-aided design tools for digital systems design, simulation, and testing. The laboratory provides hands-on experiences through Prototyping Circuit Boards, Programmable Logic (such as FPGAs) Prototyping Boards, and Hardware Description Language (HDL).
+
+Platform: FPGA Board
 ____________________________________________________________________________________________________________________________________________________________________________
 
 EMT 1255 - Electronics
