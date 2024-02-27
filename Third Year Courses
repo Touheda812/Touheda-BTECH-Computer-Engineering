@@ -44,9 +44,9 @@ ________________________________________________________________________________
 
 CST3529 – Applied Methods in Machine Learning
 --------------------------------------------------
-Understand what AI is and why we need to study it
-Understand the basics of machine learning and the most important methods used in machine learning
-Create simple to complex applications to illustrate how real-world problems can be solved with AI.
-Overcome the complexities/challenges in developing complex applications using Python programming
-language.
-________________________________________________________________________________________________________
+This course will teach students how to develop machine learning applications for knowledge-based systems, agent systems, 
+and business strategies. The students will learn basic techniques for building intelligent computer systems and will 
+understand how this branch of Artificial Intelligence learns from data to solve simple to complex real world problems. 
+They will implement machine learning using neural networks, decision processes, graphic models, and regressions. Students 
+are required to have some basic knowledge of Python programming and algorithms.
+___________________________________________________________________________________________________________________________
