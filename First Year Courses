@@ -50,5 +50,28 @@ energy conversion systems and their displacement, velocity and acceleration. Lab
 components through the technique of breadboarding. Standard industrial components are used for this purpose.
 _______________________________________________________________________________________________________________________________________________________________________________
 
+EMT 1250 - Fundamentals of Digital Systems
+--------------------------------------------
+
+An introduction to digital logic and the basic building blocks used in digital systems. Students learn Boolean algebra and switching functions, logic gates and flip-flops,
+combinational and sequential logic circuits, memory elements, programmable logic devices, and computer-aided design tools for digital systems design, simulation, and testing. 
+The laboratory provides hands-on experiences through Prototyping Circuit Boards, Programmable Logic (such as FPGAs) Prototyping Boards, and Hardware Description Language (HDL).
+_________________________________________________________________________________________________________________________________________________________________________________
+
+EMT 1255 - Electronics
+Writing Intensive
+-----------------------
+
+Non-linear behavior using semiconductor devices from diodes to CMOS IC’s. A black-box analysis of amplifiers and other circuits is introduced, as well as basic optical devices.
+Typical circuits are breadboarded, analyzed and tested in the laboratory. Computer simulations are used for the additional reinforcement of course material.
+___________________________________________________________________________________________________________________________________________________________________________________
+
+PHYS 1433 - General Physics I: Algebra Based
+Pathways: Life and Physical Sciences, Scientific World
+Writing Intensive
+-----------------------------------------------------------
+Algebra-based course on basic concepts and principles of mechanics, heat, waves and fluids. Topics include: statics, kinematics, dynamics, work and energy, circular and rotational 
+motion, fluid dynamics, temperature, heat transfer and wave motion. Laboratory experiments are computer based and illustrate and supplement the lecture material.
+_____________________________________________________________________________________________________________________________________________________________________________________
 
 
