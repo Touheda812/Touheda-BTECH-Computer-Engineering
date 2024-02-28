@@ -211,6 +211,8 @@ CET 4811 - Capstone Design Project
 A capstone course dealing with design and programming concepts of particular importance for computer-controlled systems. In the lab, students may choose to utilize their
 concept designs from CET 4711, or to design a new device from scratch. Students apply their knowledge of component design, systems design, control theory and computer
 programming to carry out detailed design of their device or system, build a working model and program a computer to perform the desired measurement and/or control functions.
+
+PROJECT: https://github.com/Touheda812/Completed-sizzling-spice_RestaurantWebsite.git
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 4864 - Principles of Feedback Control Systems
