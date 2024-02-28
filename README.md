@@ -116,19 +116,19 @@ How computer hardware and electromechanical systems control external devices, bo
 ____________________________________________________________________________________________________________________________________________________________________________
 
 EMT 2480L - Electromechanical Systems Design Laboratory
------------------------------------------------------------
+--------------------------------------------------------
 Study of an actual electromechanical system used in biomedical technology, robotics or a related field. Computer Aided design is utilized to prepare drawings of both 2D and 3D components. Computer Aided engineering (CAE) techniques are utilized to introduce concepts of mechanics of materials needed to analyze the component(s). The lab provides opportunity to design components, processes or systems appropriate to the field.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 PHYS 1434 - General Physics II: Algebra Based
 Pathways: Scientific World
 Writing Intensive
-------------------------------------------------
+---------------------------------------------
 Algebra-based course on basic concepts and principles of electricity and magnetism, light and atomic physics. Topics include: electrostatics, electric current, magnetism, magnetic induction, alternating currents, electromagnetic waves, geometric and wave optics and the atomic theory of matter. Laboratory experiments illustrate and supplement the lecture material.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 EMT 2410 - C/C++ Programming for Embedded Systems
------------------------------------------------------
+--------------------------------------------------
 Introduction to the basics of C/ C++ programming language with applications to embedded systems. Fundamentals of structured and object-oriented programming in C/C++ and their applications in hardware environments. Students develop projects that highlight the application of C/C++ language in an embedded system.
 _____________________________________________________________________________________________________________________________________________________________________________
 
@@ -147,7 +147,7 @@ ________________________________________________________________________________
 
 MAT 1575 - Calculus II
 Pathways: Math and Quantitative Reasoning, Scientific World
----------------------------------------------------------------
+------------------------------------------------------------
 A continuation of MAT 1475. Topics include Taylor polynomials, Mean Value Theorem, Taylor and Maclaurin series, tests of convergence, techniques of integration, improper
 integrals, areas, volumes and arclength.
 ___________________________________________________________________________________________________________________________________________________________________________
@@ -158,7 +158,7 @@ An introduction to the concepts and techniques of instrumentation. Analog and di
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 3625 - Applied Analysis Lab
----------------------------------
+--------------------------------
 Students are introduced to the application of calculus and ordinary differential equations for the modeling and solution of advanced problems in engineering technology. This course is coordinated with MAT 2680 Differential Equations.
 __________________________________________________________________________________________________________________________________________________________________________
 
@@ -169,12 +169,12 @@ ________________________________________________________________________________
 
 MAT 2680 - Differential Equations
 Pathways: Scientific World
-------------------------------------
+---------------------------------
 Topics include methods of solving ordinary differential equations and applications to various problems.
 __________________________________________________________________________________________________________
 
 CST3529 – Applied Methods in Machine Learning
---------------------------------------------------
+----------------------------------------------
 This course will teach students how to develop machine learning applications for knowledge-based systems, agent systems, and business strategies. The students will learn basic techniques for building intelligent computer systems and will understand how this branch of Artificial Intelligence learns from data to solve simple to complex real world problems. They will implement machine learning using neural networks, decision processes, graphic models, and regressions. Students  are required to have some basic knowledge of Python programming and algorithms.
 _____________________________________________________________________________________________________________________________________________________________________________
 
@@ -221,4 +221,6 @@ ________________________________________________________________________________
 CST3504 – Database Design
 ---------------------------
 This course is dedicated to an overview of the database design process. The three main phases in database design, namely: conceptual, using Entity Relational Diagram (ERD) and Unified Modeling Language (UML); logical, using the relational model, and physical, using the Oracle Database Management System (DBMS), are covered. The basics of the relational data model (concepts of relation, attribute, primary key, and foreign key) are reviewed, and the mapping of the conceptual model to the relational model is discussed. Advanced concepts of relational theory (normalization, denormalization) are included. The Physical model of the database is built in Oracle. Students must be familiar with SQL.
-_____________________________________________________________________________________________________________________________________________________________________________
+
+Languages: SQL 
+____________________________________________________________________________________________________________________________________________________________________________
