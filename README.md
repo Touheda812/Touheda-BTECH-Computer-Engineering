@@ -1,5 +1,3 @@
-Touheda's Porfolio
-
 Softwares --> Multisim, Eclipse, Visual Studio, LabView, Matlab, Quartus 18.1 & 13.1, TinkerCAD, AutoCAD, VisaulFEA, Ubuntu
 
 Programming Languages --> Python, Java, JavaScript, C++, Assembly Language
