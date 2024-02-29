@@ -106,6 +106,9 @@ EMT 2390L - Operating Systems Laboratory
 ------------------------------------------
 
 Students study the characteristics of operating systems used in IBM systems. They learn how to install the operating system and set it up to control the computer hardware. They also learn to use features of the operating system to manage the computer system.
+
+Software: Ubuntu 
+OS: Linux
 ____________________________________________________________________________________________________________________________________________________________________________
 
 MAT 1475 - Calculus I
@@ -131,6 +134,8 @@ ________________________________________________________________________________
 EMT 2480L - Electromechanical Systems Design Laboratory
 --------------------------------------------------------
 Study of an actual electromechanical system used in biomedical technology, robotics or a related field. Computer Aided design is utilized to prepare drawings of both 2D and 3D components. Computer Aided engineering (CAE) techniques are utilized to introduce concepts of mechanics of materials needed to analyze the component(s). The lab provides opportunity to design components, processes or systems appropriate to the field.
+
+Software: AutoCAD & VisualFEA 
 _____________________________________________________________________________________________________________________________________________________________________________
 
 PHYS 1434 - General Physics II: Algebra Based
@@ -143,6 +148,8 @@ ________________________________________________________________________________
 EMT 2410 - C/C++ Programming for Embedded Systems
 --------------------------------------------------
 Introduction to the basics of C/ C++ programming language with applications to embedded systems. Fundamentals of structured and object-oriented programming in C/C++ and their applications in hardware environments. Students develop projects that highlight the application of C/C++ language in an embedded system.
+
+Programming Language: C++
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 3510 - Microcomputer Systems Technology
@@ -172,6 +179,8 @@ ________________________________________________________________________________
 CET 3615 - Instrumentation and Data Acquisition
 -------------------------------------------------
 An introduction to the concepts and techniques of instrumentation. Analog and digital techniques are used, taking into account standards, precision, accuracy and sensitivity in the data-acquisition process. Interfacing with mechanical and electronic sensors. The lab emphasizes practical components and system analysis with evaluation of results, and utilizes computer-based dataacquisition systems as well as standalone instruments.
+
+Software: LabView & Multisim 
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 3625 - Applied Analysis Lab
@@ -197,6 +206,8 @@ ________________________________________________________________________________
 CST3529 – Applied Methods in Machine Learning
 ----------------------------------------------
 This course will teach students how to develop machine learning applications for knowledge-based systems, agent systems, and business strategies. The students will learn basic techniques for building intelligent computer systems and will understand how this branch of Artificial Intelligence learns from data to solve simple to complex real world problems. They will implement machine learning using neural networks, decision processes, graphic models, and regressions. Students  are required to have some basic knowledge of Python programming and algorithms.
+
+Programming Language: Python
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 4705 - Component and Subsystem Design I
@@ -222,11 +233,15 @@ CET 4773 - Inter-networking Technology
 Writing Intensive
 ---------------------------------------
 Technologies, protocols, and techniques used to connect a computer network with other networks through the use of gateways that provide a common method of routing information packets among the networks. Internet technologies for the connection of computing devices with other internal and external devices or systems. Topics include Local Area Networks (LAN) and Wide Area Networks (WAN) implementation, wireless networks implementation, network security, advanced switching and routing configuration, advanced TCP/IP configuration, and network management.
+
+TestOut: Routing and Switching Pro
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 4805 - Component and Subsystem Design II
 ----------------------------------------------
 Continuation of CET 4705. Further design of subsystems requiring solution by differential equations. Worst-case designs and component tolerances, development of control systems. A term project may be assigned.
+
+Software: Altera Quartus II Design Software | FPGAs
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 4811 - Capstone Design Project
@@ -236,12 +251,15 @@ concept designs from CET 4711, or to design a new device from scratch. Students 
 programming to carry out detailed design of their device or system, build a working model and program a computer to perform the desired measurement and/or control functions.
 
 PROJECT: https://github.com/Touheda812/Completed-sizzling-spice_RestaurantWebsite.git
+
 Website: https://touheda812.github.io/Completed-sizzling-spice_RestaurantWebsite/
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 4864 - Principles of Feedback Control Systems
 ---------------------------------------------------
 Introduction to feedback concepts (positive and negative). Transient and steady-state analysis using Laplace transforms. Bode plots, stability analysis, and controller design. Lab work includes the use of mathematical analysis and simulation.
+
+Software: Matlab
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CST3504 – Database Design
