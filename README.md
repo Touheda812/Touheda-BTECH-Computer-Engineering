@@ -1,4 +1,9 @@
 Touheda's Porfolio
+----------------------
+Softwares: Multisim, Eclipse, Visual Studio, LabView, Matlab
+Programming Languages: Python, Java, JavaScript, C++, Assembly Language
+Microcontrollers: Arduino UNO, FPGA Board
+Sensors: IR Sensor, Light Sensor, Ultrasonic Sensor, Motion Sensor, Temperature
 
 EMT 1111 - Logic and Problem-Solving
 -------------------------------------
@@ -169,11 +174,15 @@ ________________________________________________________________________________
 CET 3625 - Applied Analysis Lab
 --------------------------------
 Students are introduced to the application of calculus and ordinary differential equations for the modeling and solution of advanced problems in engineering technology. This course is coordinated with MAT 2680 Differential Equations.
+
+Software: Matlab
 __________________________________________________________________________________________________________________________________________________________________________
 
 CET 3640 - Software for Computer Control
 -----------------------------------------
 Programming concepts and software development techniques for computercontrolled systems. Laboratory exercises apply these concepts to a variety of systems and devices.
+
+Programming Language: Java
 ___________________________________________________________________________________________________________________________________________________________________________
 
 MAT 2680 - Differential Equations
@@ -190,6 +199,8 @@ ________________________________________________________________________________
 CET 4705 - Component and Subsystem Design I
 --------------------------------------------
 Develops the foundations for performing electrical design in computer engineering technology applications. Typical systems are analyzed mathematically and graphically. Subsystems are designed to meet specific performance criteria.
+
+Project: https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Capstone%20Project
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 4711 - Computer-Controlled Systems Design
