@@ -26,6 +26,7 @@ Students gain insight into selected mechanical and electrical manufacturing proc
 to study digital electronics.
 
 Project: Build a Digital Trainer 
+https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Build%20A%20Digital%20Trainer
 ____________________________________________________________________________________________________________________________________________________________
 
 EMT 1150 - Electrical Circuits
