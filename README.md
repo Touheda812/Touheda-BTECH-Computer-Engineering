@@ -8,6 +8,10 @@ Microcontrollers -->  Arduino UNO, FPGA Board, Mbed Board, Particle Photon
 
 Sensors --> IR Sensor, Light Sensor, Ultrasonic Sensor, Motion Sensor, Temperature
 
+Software Testing Capstone Project
+----------------------------------
+https://github.com/Touheda812/Software-Testing-Capstone-Project- 
+
 EMT 1111 - Logic and Problem-Solving
 -------------------------------------
 This course introduces the foundations of problem-solving and computer programming as it is applied to electromechanical engineering technology. 
