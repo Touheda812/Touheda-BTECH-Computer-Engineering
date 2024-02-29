@@ -10,6 +10,14 @@ Software Testing Capstone Project
 ----------------------------------
 https://github.com/Touheda812/Software-Testing-Capstone-Project- 
 
+Implementation of Pseudo-Random Number Generator Using LFSR
+------------------------------------------------------------
+https://academicworks.cuny.edu/ny_pubs/642/
+
+Child Detection System For Preventing Hot-Car Death
+---------------------------------------------------
+https://academicworks.cuny.edu/ny_pubs/835/
+
 EMT 1111 - Logic and Problem-Solving
 -------------------------------------
 This course introduces the foundations of problem-solving and computer programming as it is applied to electromechanical engineering technology. 
