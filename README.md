@@ -213,6 +213,7 @@ concept designs from CET 4711, or to design a new device from scratch. Students 
 programming to carry out detailed design of their device or system, build a working model and program a computer to perform the desired measurement and/or control functions.
 
 PROJECT: https://github.com/Touheda812/Completed-sizzling-spice_RestaurantWebsite.git
+Website: https://touheda812.github.io/Completed-sizzling-spice_RestaurantWebsite/
 _____________________________________________________________________________________________________________________________________________________________________________
 
 CET 4864 - Principles of Feedback Control Systems
