@@ -1,8 +1,11 @@
 Touheda's Porfolio
 
 Softwares --> Multisim, Eclipse, Visual Studio, LabView, Matlab, Quartus 18.1 & 13.1, 
+
 Programming Languages --> Python, Java, JavaScript, C++, Assembly Language
+
 Microcontrollers -->  Arduino UNO, FPGA Board
+
 Sensors --> IR Sensor, Light Sensor, Ultrasonic Sensor, Motion Sensor, Temperature
 
 EMT 1111 - Logic and Problem-Solving
