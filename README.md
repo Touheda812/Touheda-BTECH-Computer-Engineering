@@ -269,4 +269,5 @@ CST3504 – Database Design
 This course is dedicated to an overview of the database design process. The three main phases in database design, namely: conceptual, using Entity Relational Diagram (ERD) and Unified Modeling Language (UML); logical, using the relational model, and physical, using the Oracle Database Management System (DBMS), are covered. The basics of the relational data model (concepts of relation, attribute, primary key, and foreign key) are reviewed, and the mapping of the conceptual model to the relational model is discussed. Advanced concepts of relational theory (normalization, denormalization) are included. The Physical model of the database is built in Oracle. Students must be familiar with SQL.
 
 Languages: SQL 
+https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/SQL
 ____________________________________________________________________________________________________________________________________________________________________________
