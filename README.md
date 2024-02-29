@@ -109,11 +109,15 @@ ________________________________________________________________________________
 EMT 2455 - Data Communications
 -------------------------------
 Fundamentals of data communications and computer networks protocols and standards. It provides a basic understanding of data communication systems with practical examples of communication  networks as applied in engineering technology. Study of OSI and TCP/IP models, data transmissions, transmission media, network topologies, network cabling system, IP addressing, TCP/IP suite, local area networks (LANs), wide area networks (WANs), wireless network, and network security. Students carry out experiments using modern hardware and software networking tools.
+
+Skills: CompTIA Network +
 _____________________________________________________________________________________________________________________________________________________________________________
 
 EMT 2461 - Electromechanical Systems: Software Interface
 ---------------------------------------------------------
 How computer hardware and electromechanical systems control external devices, both electrically and mechanically. Students build a project to learn the interface of software and hardware for use as a control element.
+
+Programming: Arduino Microcontroller & TinkerCAD
 ____________________________________________________________________________________________________________________________________________________________________________
 
 EMT 2480L - Electromechanical Systems Design Laboratory
@@ -138,12 +142,16 @@ CET 3510 - Microcomputer Systems Technology
 An introduction to microcomputer architecture and the basic concepts used in the Personal Computer (PC). Key features of the PC are explored by writing programs 
 in a high-level language (such as C) to access them. Assembly language programs are utilized to gain insight into machinelevel operations. Laboratory exercises 
 support the lecture and are carried out in the context of currently available operating systems.
+
+Language: Assembly Language 
 _________________________________________________________________________________________________________________________________________________________________
 
 CET 3525 - Electrical Networks
 -------------------------------
 Applications of principles of electrical circuit analysis to the solution of practical network problems, with emphasis on steady-state AC Circuits. Applications of 
 Kirchoff’s Laws, superposition and Thevenin’s theorems.
+
+Software: Multisim & Matlab
 _____________________________________________________________________________________________________________________________________________________________________
 
 MAT 1575 - Calculus II
