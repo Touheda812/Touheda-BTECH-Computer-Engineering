@@ -18,6 +18,14 @@ Child Detection System For Preventing Hot-Car Death
 ---------------------------------------------------
 https://academicworks.cuny.edu/ny_pubs/835/
 
+MTA Toll Calculator
+--------------------
+https://mtatoll-calculator.pages.dev/
+
+CBDTP Calculator
+-----------------
+https://responsive-mta-tollcalculator.pages.dev/
+
 EMT 1111 - Logic and Problem-Solving
 -------------------------------------
 This course introduces the foundations of problem-solving and computer programming as it is applied to electromechanical engineering technology. 
